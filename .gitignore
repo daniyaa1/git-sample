@@ -3,4 +3,6 @@ log.txt
 *.txt
 a.out
 Sol.class
+.vscode/
 a.class
+
